@@ -3,17 +3,17 @@
 Currently, I'm finishing-up a cert. in the Full Stack Engineering Program at Actualize - 
 
 Concentrating on my Ruby on Rails, SQL, and HTML/CSS skills. 🦸🏻‍♂️👨🏻‍💻 
-
+ 
 ⚡ What I like to do ⚡
 
-Watching stand-up 🤡
-Drinking a sour while watching the sunset 🍺 🌇
-My side-hustle is carpentry 🔨 
-My hobby is 3D art 🤖 🖲️
+- Watching stand-up 🤡
+- Drinking a sour while watching the sunset 🍺 🌇
+- My side-hustle is carpentry 🔨 
+- My hobby is 3D art 🤖 🖲️
 
 I used to be  ...
-A teacher 👨🏻‍🏫 and 
-Phys. ed. specialist 🤾🏻‍♂️🏀
+- A teacher 👨🏻‍🏫 and 
+- Phys. ed. specialist 🤾🏻‍♂️🏀
 
 My sport is swimming 🏊🏻‍♂️💦
 I looove to cook, and am currently trying to perfect
