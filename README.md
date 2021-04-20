@@ -1,6 +1,6 @@
-# Hi!   I'm James Boyette 👋🏻 👋🏻 
+# Hi!  - I'm James Boyette 👋🏻 👋🏻 
 
-Currently, I'm finishing-up a cert. in the Full Stack Engineering Program at Actualize - 
+Currently finishing-up a cert. in the Full Stack Engineering Program at Actualize - 
 
 Concentrating on my Ruby on Rails, SQL, and HTML/CSS skills. 🦸🏻‍♂️👨🏻‍💻 
  
