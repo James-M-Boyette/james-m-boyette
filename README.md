@@ -12,7 +12,7 @@ Concentrating on my Ruby on Rails, SQL, and HTML/CSS skills. 🦸🏻‍♂️�
 - My hobby is 3D art 🤖 🖲️
 
 I used to be  ...
-- A teacher 👨🏻‍🏫 and 
+- A teacher 👨🏻‍🏫 
 - Phys. ed. specialist 🤾🏻‍♂️
 
 My sport is swimming 🏊🏻‍♂️💦 and I looove to cook 🍽 
