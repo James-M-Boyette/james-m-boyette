@@ -1,4 +1,7 @@
-# Hi!  - I'm James 👋🏻 👋🏻 
+# Hi!  - I'm James Boyette 👋🏻 👋🏻 
+
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats&langs_count=5)
 
 Currently finishing-up a cert. in the Full Stack Engineering Program at Actualize - 
 
@@ -26,5 +29,4 @@ My sport is swimming 🏊🏻‍♂️💦 and I looove to cook 🍽
 aaand I miss the days when I could sink two entire days into a video game while slowly consuming a Papa John's ... 🕹️ 🍕 🧟‍♂️  
 <looks tearfully at an unopened copy of Cyberpunk ...>
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats&langs_count=5)
+
