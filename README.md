@@ -23,7 +23,7 @@ My sport is swimming 🏊🏻‍♂️💦 and I looove to cook 🍽
  > ~~braises~~  
  > bread-making  
 
-aaand I miss the days when I could sink two entire days into a video game while slowly consuming a Papa John's ... 🎮 🍕 🧟‍♂️ 
+aaand I miss the days when I could sink two entire days into a video game while slowly consuming a Papa John's ... 🎮 🍕 🧟‍♂️  
 <looks tearfully at an unopened copy of Cyberpunk ...>
 
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true)
