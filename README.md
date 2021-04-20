@@ -18,7 +18,7 @@ I used to be  ...
 My sport is swimming 🏊🏻‍♂️💦 and I looove to cook 🍽 
 - currently trying to perfect
 
- - ~~the perfect scrambled egg~~  
+ -- ~~the perfect scrambled egg~~  
 ~~marinades~~  
 ~~braises~~  
 bread-making  
