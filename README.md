@@ -2,7 +2,7 @@
 
 Currently finishing-up a cert. in the Full Stack Engineering Program at Actualize - 
 
-Concentrating on my Ruby on Rails, SQL, and HTML/CSS skills. 🦸🏻‍♂️👨🏻‍💻 💪🏻
+Concentrating on my Ruby on Rails, SQL, and HTML/CSS skills. 🦸🏻‍♂️👨🏻‍💻 
  
 ⚡ What I like to do ⚡
 
