@@ -18,11 +18,11 @@ Phys. ed. specialist 🤾🏻‍♂️🏀
 My sport is swimming 🏊🏻‍♂️💦
 I looove to cook, and am currently trying to perfect
 
-~~the perfect scrambled egg~~ 
-~~marinades~~ 
-~~braises~~ 
+~~the perfect scrambled egg~~  
+~~marinades~~  
+~~braises~~  
 
-bread-making 🍽 
+bread-making 🍽  
 
 aaand I miss the days when I could sink two days into a video game while slowly consuming a Papa Johns ... 🎮 🍕 🧟‍♂️
 
