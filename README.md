@@ -15,14 +15,14 @@ I used to be  ...
 - A teacher 👨🏻‍🏫 and 
 - Phys. ed. specialist 🤾🏻‍♂️🏀
 
-My sport is swimming 🏊🏻‍♂️💦
-I looove to cook, and am currently trying to perfect
+My sport is swimming 🏊🏻‍♂️💦 and I looove to cook 🍽 
+- currently trying to perfect
 
 ~~the perfect scrambled egg~~  
 ~~marinades~~  
 ~~braises~~  
 
-bread-making 🍽  
+bread-making  
 
 aaand I miss the days when I could sink two days into a video game while slowly consuming a Papa Johns ... 🎮 🍕 🧟‍♂️
 
