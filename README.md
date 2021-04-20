@@ -26,7 +26,7 @@ My sport is swimming 🏊🏻‍♂️💦 and I looove to cook 🍽
   > ~~braises~~  
   > bread-making  
 
-* *aaand* * I miss the days when I could sink two entire days into a video game while slowly consuming a Papa John's ... 🕹️ 🍕 🧟‍♂️  
+_aaand_ I miss the days when I could sink two entire days into a video game while slowly consuming a Papa John's ... 🕹️ 🍕 🧟‍♂️  
 <looks tearfully at an unopened copy of Cyberpunk ...>
 
 
