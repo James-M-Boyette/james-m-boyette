@@ -13,7 +13,7 @@ Concentrating on my Ruby on Rails, SQL, and HTML/CSS skills. 🦸🏻‍♂️�
 
 I used to be  ...
 - A teacher 👨🏻‍🏫 and 
-- Phys. ed. specialist 🤾🏻‍♂️🏀
+- Phys. ed. specialist 🤾🏻‍♂️
 
 My sport is swimming 🏊🏻‍♂️💦 and I looove to cook 🍽 
 - currently trying to perfect
