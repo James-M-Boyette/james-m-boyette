@@ -1,4 +1,4 @@
-# Hi!  - I'm James Boyette 👋🏻 👋🏻 
+# Hi!  - I'm James 👋🏻 👋🏻 
 
 Currently finishing-up a cert. in the Full Stack Engineering Program at Actualize - 
 
