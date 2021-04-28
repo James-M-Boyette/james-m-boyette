@@ -1,6 +1,6 @@
 # Hi!  - I'm James Boyette 👋🏻 👋🏻 
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=30,edf09e,CED189,031321,072846,031321&title_color=fad60c&text_color=fff&icon_color=faee0c)
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=30,edf09e,ACAF67,CED189,031321,072846,031321&title_color=fad60c&text_color=fff&icon_color=faee0c)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats&langs_count=5)
 
 Currently finishing-up a cert. in the Full Stack Engineering Program at Actualize - 
