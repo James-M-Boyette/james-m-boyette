@@ -1,7 +1,7 @@
 # Hi!  - I'm James Boyette 👋🏻 👋🏻 
 
-[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=30,E8EAB2,BDC15D,072846,072846,031321,031321&title_color=F3C102&text_color=fff&icon_color=faee0c)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=30,E8EAB2,BDC15D,072846,072846,031321,031321&title_color=fad60c&text_color=fff&icon_color=faee0c)](https://github.com/anuraghazra/github-readme-stats&langs_count=5)
+[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=30,E8EAB2,BDC15D,072846,072846,031321,031321&title_color=FFCA00&text_color=fff&icon_color=faee0c)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=30,E8EAB2,BDC15D,072846,072846,031321,031321&title_color=FFCA00&text_color=fff&icon_color=faee0c)](https://github.com/anuraghazra/github-readme-stats&langs_count=5)
 
 Currently finishing-up a cert. in the Full Stack Engineering Program at Actualize - 
 
