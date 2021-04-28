@@ -1,6 +1,6 @@
 # Hi!  - I'm James Boyette 👋🏻 👋🏻 
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=30,edf09e,031321&title_color=fff&text_color=fff)
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=30,edf09e,031321&title_color=faf60c&text_color=fff)
 &bg_color=45deg,#031321,#edf09e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats&langs_count=5)
 
