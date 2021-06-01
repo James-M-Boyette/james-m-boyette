@@ -21,10 +21,10 @@ I used to be  ...
 My sport is swimming 🏊🏻‍♂️💦 and I looove to cook 🍽 
 - currently trying to perfect
 
-  > ~~the perfect scrambled egg~~  
   > ~~marinades~~  
   > ~~braises~~  
-  > bread-making  
+  > ~~bread-making~~   
+  > rooftop gardening (herbs & veg)
 
 _aaand_ I miss the days when I could sink two entire days into a video game while slowly consuming a Papa John's ... 🕹️ 🍕 🧟‍♂️  
 <looks tearfully at an unopened copy of Cyberpunk ...>
