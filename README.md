@@ -10,7 +10,7 @@ Concentrating on my Ruby on Rails, SQL, and HTML/CSS skills. 🦸🏻‍♂️�
 ⚡ What I like to do ⚡
 
 - Watching stand-up 🤡
-- Drinking a sour while watching the sunset 🍺 🌇
+- Drinking a tequilla citrus on the rocks 🍺 🌇
 - My side-hustle is carpentry 🔨 
 - My hobby is 3D art 🤖 🖲️
 
