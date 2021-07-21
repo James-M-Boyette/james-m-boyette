@@ -1,11 +1,8 @@
 # Hi!  - I'm James Boyette 👋🏻 👋🏻 
 
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=30,FEFFEE,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c)(https://github.com/anuraghazra/github-readme-stats&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c)
 
-Currently finishing-up a cert. in the Full Stack Engineering Program at Actualize - 
-
-Concentrating on my Ruby on Rails, SQL, and HTML/CSS skills. 🦸🏻‍♂️👨🏻‍💻 
  
 ⚡ What I like to do ⚡
 
@@ -16,7 +13,6 @@ Concentrating on my Ruby on Rails, SQL, and HTML/CSS skills. 🦸🏻‍♂️�
 
 I used to be  ...
 - A teacher 👨🏻‍🏫 
-- Phys. ed. specialist 🤾🏻‍♂️
 
 My sport is swimming 🏊🏻‍♂️💦 and I looove to cook 🍽 
 - currently trying to perfect
