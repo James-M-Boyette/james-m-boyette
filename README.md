@@ -1,11 +1,12 @@
 <div id="header" align="center">
 	<h1>
-		Hi! <span style="opacity: 0">__</span>I'm James Boyette
+		Hi ! <span style="opacity: 0">  </span>I'm James Boyette
 		<img
 			src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 			width="30px"
 		/>
 	</h1>
+---
 	<a href="https://myoctocat.dev/@sou7hernsaint/octocat">
 		<img
 			align="center"
@@ -36,11 +37,12 @@
 
 ---
 
-<div align="center"></div>
+<!-- <div align="center"></div> -->
+<div margin="auto"></div>
 <div>About Me : I am a Software Engineer, Teacher, and PC Enthusiast.
   <ul>
     <li>About Me :</li>
-    <li>Teaching, and making complicated things intuitive while creating a <span style="font-weight: bold">very</span>fun and open atmosphere gives me <span style="font-style: italic">so much</span>joy !</li>
+    <li>👨🏻‍🏫 Making complicated things intuitive while creating a <span font-style="bold">very</span>fun and open atmosphere gives me <span font-style="italic">so much</span>joy !</li>
   </ul>
 </div>
 
@@ -62,7 +64,7 @@
 <div>
   <!-- <ul>
   <li font-size="20px"> -->
-  <container display="flex" flex-direction="row">
+  <container display="flex" flex-direction="row" justify-content="space-around">
     <div margin="0 10px">
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
@@ -154,7 +156,7 @@
 
 ### :fire: My Stats :
 
-[![GitHubStreak](http://github-readme-streak-stats.herokuapp.com?user=sou7hernsaint&theme=gruvbox&bg_color=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHubStreak](http://github-readme-streak-stats.herokuapp.com?user=sou7hernsaint&theme=gruvbox&background=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c)](https://github.com/anuraghazra/github-readme-stats)
 [![James's GitHubstats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=30,FEFFEE,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c)](https://github.com/anuraghazra/github-readme-stats)
 
