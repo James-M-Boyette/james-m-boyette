@@ -6,7 +6,7 @@
 			width="30px"
 		/>
 	</h1>
-	<a href="https://myoctocat.dev/@blackgirlbytes/octocat">
+	<a href="https://myoctocat.dev/@sou7hernsaint/octocat">
 		<img
 			align="center"
 			src="https://user-images.githubusercontent.com/22990146/155748276-bc6a3a99-b8e3-464e-adf5-ca88b5acd642.png"
@@ -29,11 +29,12 @@
 	</div>
 </div>
 <div align="center"></div>
-<ul>ABOUT ME
-	<li>About Me :</li>
-	<li>About Me :</li>
-</ul>
-
+<div>About Me : 
+  <ul>
+    <li>About Me :</li>
+    <li>I love to teach. Making complicated things intuitive while creating a <span style="font-weight: bold">very</span>fun and open atmosphere gives me <span style="font-style: italic">so much</span>joy !</li>
+  </ul>
+</div>
 ---
 
 ### 👋🏾 👩🏾‍💻 About Me : I am a Developer Advocate, Software Engineer, and
