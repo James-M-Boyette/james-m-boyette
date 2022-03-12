@@ -67,7 +67,6 @@
 		width="40"
 		height="40"
 	/>&nbsp;
-  	/>&nbsp;
 	<img
 		src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
 		title="NodeJS"
@@ -82,6 +81,8 @@
     width="40"
     height="40"
   />&nbsp;
+</div>
+<div>
 	<img
 		src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg"
 		title="Ruby"
@@ -103,6 +104,8 @@
   width="40"
   height="40"
   />&nbsp;
+</div>
+<div>
 	<img
 		src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
 		title="HTML5"
@@ -124,7 +127,6 @@
     width="40"
     height="40"
   />
-
 </div>
 
 ---
