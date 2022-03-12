@@ -38,13 +38,15 @@
 ---
 
 <!-- <div align="center"></div> -->
-<div margin="auto"></div>
-<div>About Me : I am a Software Engineer, Teacher, and PC Enthusiast.
-  <ul>
-    <li>About Me :</li>
-    <li>👨🏻‍🏫 Making complicated things intuitive while creating a <span font-style="bold">very</span>fun and open atmosphere gives me <span font-style="italic">so much</span>joy !</li>
-  </ul>
-</div>
+<div margin="auto">test</div>
+<h3 align="center">About Me
+  <div>I am a Software Engineer, Teacher, and PC Enthusiast.
+    <ul>
+      <li>About Me :</li>
+      <li>👨🏻‍🏫 Making complicated things intuitive while creating a <span font-style="bold">very</span>fun and open atmosphere gives me <span font-style="italic">so much</span>joy !</li>
+    </ul>
+  </div>
+</h3>
 
 ---
 
