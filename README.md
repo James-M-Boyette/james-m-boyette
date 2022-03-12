@@ -12,6 +12,11 @@
 			src="https://user-images.githubusercontent.com/22990146/155748276-bc6a3a99-b8e3-464e-adf5-ca88b5acd642.png"
 			width="200"
 		/>
+		<img
+			align="center"
+			src="https://myoctocat.dev/@sou7hernsaint/octocat"
+			width="200"
+		/>
 	</a>
 	<div id="badges">
 		<a href="https://www.linkedin.com/in/james-boyette/">
@@ -28,52 +33,33 @@
 		</a>
 	</div>
 </div>
-<div align="center"></div>
-<div>About Me : 
-  <ul>
-    <li>About Me :</li>
-    <li>I love to teach. Making complicated things intuitive while creating a <span style="font-weight: bold">very</span>fun and open atmosphere gives me <span style="font-style: italic">so much</span>joy !</li>
-  </ul>
-</div>
+
 ---
 
-### 👋🏾 👩🏾‍💻 About Me : I am a Developer Advocate, Software Engineer, and
+<div align="center"></div>
+<div>About Me : I am a Software Engineer, Teacher, and PC Enthusiast.
+  <ul>
+    <li>About Me :</li>
+    <li>Teaching, and making complicated things intuitive while creating a <span style="font-weight: bold">very</span>fun and open atmosphere gives me <span style="font-style: italic">so much</span>joy !</li>
+  </ul>
+</div>
 
-Community Builder. - 🌱 I’m currently working on becoming an active open source
-contributor (and eventually a maintainer)! - 💬 Ask me about GitHub, open
-source, community building, React.js, and AWS. - 😄 Pronouns: she/her/hers - ⚡
-Fun fact: I've been in the same room as Michelle Obama! --- ###
-:hammer_and_wrench: Languages and Tools :
+---
+
+### 👋🏾 👩🏾‍💻 About Me : I am a Developer Advocate, Software Engineer, and Community Builder.
+
+-   🌱 I’m currently working on becoming an active open source
+    contributor (and eventually a maintainer)!
+-   💬 Ask me about GitHub, open
+    source, community building, React.js, and AWS.
+-   😄 Pronouns: she/her/hers - ⚡
+    Fun fact: I've been in the same room as Michelle Obama!
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
-	<img
-		src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
-		title="React"
-		alt="React"
-		width="40"
-		height="40"
-	/>&nbsp;
-	<img
-		src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
-		title="Redux"
-		alt="Redux "
-		width="40"
-		height="40"
-	/>&nbsp;
-	<img
-		src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
-		title="CSS3"
-		alt="CSS"
-		width="40"
-		height="40"
-	/>&nbsp;
-	<img
-		src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-		title="HTML5"
-		alt="HTML"
-		width="40"
-		height="40"
-	/>&nbsp;
 	<img
 		src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
 		title="JavaScript"
@@ -81,13 +67,7 @@ Fun fact: I've been in the same room as Michelle Obama! --- ###
 		width="40"
 		height="40"
 	/>&nbsp;
-	<img
-		src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
-		title="MySQL"
-		alt="MySQL"
-		width="40"
-		height="40"
-	/>&nbsp;
+  	/>&nbsp;
 	<img
 		src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
 		title="NodeJS"
@@ -95,20 +75,56 @@ Fun fact: I've been in the same room as Michelle Obama! --- ###
 		width="40"
 		height="40"
 	/>&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+    title="MongoDB"
+    alt="MongoDB"
+    width="40"
+    height="40"
+  />&nbsp;
 	<img
-		src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
-		title="AWS"
-		alt="AWS"
+		src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg"
+		title="Ruby"
+		alt="Ruby"
 		width="40"
 		height="40"
 	/>&nbsp;
 	<img
-		src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
-		title="Git"
-		**alt="Git"
+		src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg"
+		title="Rails"
+		alt="Rails"
 		width="40"
 		height="40"
-	/>
+	/>&nbsp;
+  <img
+  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
+  title="PostgreSQL"
+  alt="PostgreSQL"
+  width="40"
+  height="40"
+  />&nbsp;
+	<img
+		src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+		title="HTML5"
+		alt="HTML"
+		width="40"
+		height="40"
+	/>&nbsp;
+  	<img
+		src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
+		title="CSS3"
+		alt="CSS"
+		width="40"
+		height="40"
+	/>&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
+    title="Git"
+    **alt="Git"
+    width="40"
+    height="40"
+  />
+
 </div>
 
 ---
