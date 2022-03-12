@@ -1,12 +1,14 @@
-<div id="header">
-	<div align="center">
-		Hi ! <span style="opacity: 0">  </span>I'm James Boyette
-		<img
-			src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-			width="30px"
-		/>
-	</div>
-</div>
+<!-- <div id="header"> -->
+
+<h3 align="center">
+  Hi ! <span style="opacity: 0">  </span>I'm James Boyette
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="30px"
+  />
+</h3>
+
+<!-- </div> -->
 
 <div align="center">
 	<a href="https://myoctocat.dev/@sou7hernsaint/octocat">
