@@ -60,7 +60,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <ul>
+  <!-- <ul> -->
+  <div flexbox="true">
     <li font-size="20px">
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
@@ -139,7 +140,8 @@
         font-size="10px"
       />&nbsp;
     </li>
-  </ul>
+  <!-- </ul> -->
+  </div>
 </div>
 
 ---
