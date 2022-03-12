@@ -60,9 +60,9 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <!-- <ul> -->
+  <!-- <ul>
+  <li font-size="20px"> -->
   <div display="flex">
-    <li font-size="20px">
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
         title="JavaScript"
@@ -87,8 +87,8 @@
         height="40"
         font-size="10px"
       />&nbsp;
-    </li>
-    <li font-size="20px">
+    <!-- </li>
+    <li font-size="20px"> -->
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg"
         title="Ruby"
@@ -113,8 +113,8 @@
         height="40"
         font-size="10px"
         />&nbsp;
-    </li>
-    <li font-size="20px">
+    <!-- </li>
+    <li font-size="20px"> -->
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
         title="HTML5"
@@ -139,8 +139,8 @@
         height="40"
         font-size="10px"
       />&nbsp;
-    </li>
-  <!-- </ul> -->
+    <!-- </li>
+  </ul> -->
   </div>
 </div>
 
