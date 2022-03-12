@@ -29,16 +29,21 @@
 	</div>
 </div>
 <div align="center"></div>
-<ul>
+<ul>ABOUT ME
 	<li>About Me :</li>
 	<li>About Me :</li>
 </ul>
---- ### 👋🏾 👩🏾‍💻 About Me : I am a Developer Advocate, Software Engineer, and
+
+---
+
+### 👋🏾 👩🏾‍💻 About Me : I am a Developer Advocate, Software Engineer, and
+
 Community Builder. - 🌱 I’m currently working on becoming an active open source
 contributor (and eventually a maintainer)! - 💬 Ask me about GitHub, open
 source, community building, React.js, and AWS. - 😄 Pronouns: she/her/hers - ⚡
 Fun fact: I've been in the same room as Michelle Obama! --- ###
 :hammer_and_wrench: Languages and Tools :
+
 <div>
 	<img
 		src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
@@ -105,12 +110,13 @@ Fun fact: I've been in the same room as Michelle Obama! --- ###
 	/>
 </div>
 
---- ### :fire: My Stats : [![GitHub
-Streak](http://github-readme-streak-stats.herokuapp.com?user=sou7hernsaint&theme=gruvbox&bg_color=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c)](https://github.com/anuraghazra/github-readme-stats)
-[![James's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=30,FEFFEE,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### :fire: My Stats :
+
+[![GitHubStreak](http://github-readme-streak-stats.herokuapp.com?user=sou7hernsaint&theme=gruvbox&bg_color=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c)](https://github.com/anuraghazra/github-readme-stats)
+[![James's GitHubstats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=30,FEFFEE,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- --- ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
