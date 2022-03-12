@@ -62,8 +62,8 @@
 <div>
   <!-- <ul>
   <li font-size="20px"> -->
-  <div display="flex">
-    <div margin="0 50px">
+  <container display="flex" flex-direction="row">
+    <div margin="0 10px">
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
         title="JavaScript"
@@ -147,7 +147,7 @@
     </div>
     <!-- </li>
   </ul> -->
-  </div>
+  </container>
 </div>
 
 ---
