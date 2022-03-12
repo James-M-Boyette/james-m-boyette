@@ -68,7 +68,7 @@
         alt="JavaScript"
         width="40"
         height="40"
-        margin-top="10px"
+        padding-top="10px"
       />&nbsp;
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -76,7 +76,7 @@
         alt="NodeJS"
         width="40"
         height="40"
-        margin-top="10px"
+        padding-top="10px"
       />&nbsp;
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -84,7 +84,7 @@
         alt="MongoDB"
         width="40"
         height="40"
-        margin-top="10px"
+        padding-top="10px"
       />&nbsp;
     </li>
     <li>
@@ -94,7 +94,7 @@
         alt="Ruby"
         width="40"
         height="40"
-        margin-top="10px"
+        padding-top="10px"
       />&nbsp;
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg"
@@ -102,16 +102,16 @@
         alt="Rails"
         width="40"
         height="40"
-        margin-top="10px"
+        padding-top="10px"
       />&nbsp;
       <img
-      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
-      title="PostgreSQL"
-      alt="PostgreSQL"
-      width="40"
-      height="40"
-      margin-top="10px"
-      />&nbsp;
+        src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
+        title="PostgreSQL"
+        alt="PostgreSQL"
+        width="40"
+        height="40"
+        padding-top="10px"
+        />&nbsp;
     </li>
     <li>
       <img
@@ -120,7 +120,7 @@
         alt="HTML"
         width="40"
         height="40"
-        margin-top="10px"
+        padding-top="10px"
       />&nbsp;
         <img
         src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
@@ -128,7 +128,7 @@
         alt="CSS"
         width="40"
         height="40"
-        margin-top="10px"
+        padding-top="10px"
       />&nbsp;
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
@@ -136,7 +136,7 @@
         **alt="Git"
         width="40"
         height="40"
-        margin-top="10px"
+        padding-top="10px"
       />&nbsp;
     </li>
   </ul>
