@@ -1,24 +1,20 @@
 <div id="header">
-	<h1 align="center">
+	<div align="center">
 		Hi ! <span style="opacity: 0">  </span>I'm James Boyette
 		<img
 			src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 			width="30px"
 		/>
-	</h1>
+	</div>
 </div>
 
----
-
-<div>
+<div align="center">
 	<a href="https://myoctocat.dev/@sou7hernsaint/octocat">
 		<img
-			align="center"
 			src="https://user-images.githubusercontent.com/22990146/155748276-bc6a3a99-b8e3-464e-adf5-ca88b5acd642.png"
 			width="200"
 		/>
 		<img
-			align="center"
 			src="https://myoctocat.dev/@sou7hernsaint/octocat"
 			width="200"
 		/>
