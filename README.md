@@ -63,6 +63,7 @@
   <!-- <ul>
   <li font-size="20px"> -->
   <div display="flex">
+    <div margin="0 50px">
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
         title="JavaScript"
@@ -87,6 +88,8 @@
         height="40"
         font-size="10px"
       />&nbsp;
+    </div>
+    <div margin="0 50px">
     <!-- </li>
     <li font-size="20px"> -->
       <img
@@ -113,6 +116,8 @@
         height="40"
         font-size="10px"
         />&nbsp;
+    </div>
+    <div margin="0 50px">
     <!-- </li>
     <li font-size="20px"> -->
       <img
@@ -139,6 +144,7 @@
         height="40"
         font-size="10px"
       />&nbsp;
+    </div>
     <!-- </li>
   </ul> -->
   </div>
