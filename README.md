@@ -45,7 +45,9 @@
 <container>
   <div>I am a Software Engineer, Teacher, and PC Enthusiast.
     <ul>
-      <li>🌱 I'm currently drilling algorithm practice, because I need that muscle to be <span class="tenor-gif-embed" data-postid="19373906" data-share-method="host" data-aspect-ratio="1.28514" data-width="100%"><a href="https://tenor.com/view/workout-strong-flex-muscle-biceps-gif-19373906"><script type="text/javascript" async src="https://tenor.com/embed.js"></script></span></li>
+      <li>🌱 I'm currently drilling algorithm practice, because I need that muscle to be <span>
+        <div class="tenor-gif-embed" data-postid="19373906" data-share-method="host" data-aspect-ratio="1.28514" data-width="100%"><a href="https://tenor.com/view/workout-strong-flex-muscle-biceps-gif-19373906">Workout Strong Sticker</a></span> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        </li>
       <li>👨🏻‍🏫 Making complicated things intuitive while creating a <span font-style="bold">very</span>fun and open atmosphere gives me <span font-style="italic">so much</span>joy !</li>
     </ul>
   </div>
