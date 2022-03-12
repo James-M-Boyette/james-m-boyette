@@ -61,7 +61,7 @@
 
 <div>
   <!-- <ul> -->
-  <div flexbox="true">
+  <div display="flex">
     <li font-size="20px">
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
