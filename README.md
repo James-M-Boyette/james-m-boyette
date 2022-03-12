@@ -1,11 +1,12 @@
-<div id="header" align="center">
-	<h1>
+<div id="header">
+	<h1 align="center">
 		Hi ! <span style="opacity: 0">  </span>I'm James Boyette
 		<img
 			src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 			width="30px"
 		/>
 	</h1>
+</div>
 
 ---
 
@@ -42,7 +43,7 @@
 
 <!-- <div align="center"></div> -->
 <h3 align="center">About Me</h3>
-<container>
+<container align="left">
   <div>I am a Software Engineer, Teacher, and PC Enthusiast.
     <ul>
       <li>🌱 I'm currently drilling algorithm practice, because I need that muscle to be <span>
