@@ -2,16 +2,12 @@
 
 <h3 align="center">
   <div>Hi !
-  <img
+  </div>
+  <div>I'm James Boyette <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="30px"
-  />
-  </div>
-  <div>I'm James Boyette</div>
-</h3>
-<h3 align="center">
-  I'm James Boyette
-  
+  /></div>
+
 </h3>
 
 <!-- </div> -->
