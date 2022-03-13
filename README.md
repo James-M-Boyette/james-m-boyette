@@ -28,7 +28,7 @@
 		</a>
 		<a href="https://www.james-boyette.com">
 			<img
-				src="https://img.shields.io/badge/-Portfolio%20Website-blue?style=for-the-badge&logoColor=white&logo=corsair"
+				src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logoColor=white&logo=corsair"
 			/>
 		</a>
 		<a href="https://www.twitter.com/sou7hernsaint">
@@ -45,7 +45,7 @@
 <!-- <div align="center"></div> -->
 <h3 align="center">About Me</h3>
 <container align="left">
-  <div>I am a Software Engineer, Teacher, and PC Enthusiast who is currently ...
+  <div>I'm a Software Engineer, Teacher, and PC Enthusiast who is currently ...
     <ul>
       <li>🌱 drilling algorithm practice, because I need that muscle to be  <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
     width="30px"></img>,</li>
