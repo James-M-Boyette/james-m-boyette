@@ -14,8 +14,12 @@
 
 <div align="center">
 	<a href="https://myoctocat.dev/@sou7hernsaint/octocat">
-		<img
+		<!-- <img
 			src="https://raw.githubusercontent.com/sou7hernsaint/sou7hernsaint/main/octoJames2.png"
+			width="200"
+		/> -->
+		<img
+			src="![octoJames2](https://user-images.githubusercontent.com/79064297/158075717-c66bdd66-26f0-4f1f-9334-db38cb7af040.png)"
 			width="200"
 		/>
 	</a>
