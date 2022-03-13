@@ -57,10 +57,18 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-|  Syntax   | Description |
-| :-------: | :---------: |
-|  Header   |    Title    |
-| Paragraph |    Text     |
+| Syntax | Description |
+| :----: | :---------: |
+
+| <img
+        src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+        title="JavaScript"
+        alt="JavaScript"
+        width="40"
+        height="40"
+        font-size="10px"
+      />&nbsp; | Title |
+| Paragraph | Text |
 
 <div>
 
