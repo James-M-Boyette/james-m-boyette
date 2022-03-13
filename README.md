@@ -26,6 +26,11 @@
 				alt="LinkedIn Badge"
 			/>
 		</a>
+		<a href="https://www.james-boyette.com">
+			<img
+				src="https://img.shields.io/badge/-Portfolio%20Website-blue?style=for-the-badge&logoColor=white&logo=corsair"
+			/>
+		</a>
 		<a href="https://www.twitter.com/sou7hernsaint">
 			<img
 				src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
