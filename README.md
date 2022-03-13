@@ -57,26 +57,12 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-| Syntax | Description |
-| :----: | :---------: |
-
-| <img
-        src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-        title="JavaScript"
-        alt="JavaScript"
-        width="40"
-        height="40"
-        font-size="10px"
-      />&nbsp; | Title |
-| Paragraph | Text |
+<!-- |  Syntax   | Description |
+| :-------: | :---------: |
+|  Header   |    Title    |
+| Paragraph |    Text     | -->
 
 <div>
-
-  <!-- <ul>
-  <li font-size="20px"> -->
-  <!-- <container display="flex" flex-direction="row" justify-content="space-around"> -->
-  <container style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div margin="0 10px">
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
         title="JavaScript"
@@ -101,38 +87,7 @@
         height="40"
         font-size="10px"
       />&nbsp;
-    </div>
-    <div margin="0 50px">
-    <!-- </li>
-    <li font-size="20px"> -->
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg"
-        title="Ruby"
-        alt="Ruby"
-        width="40"
-        height="40"
-        font-size="10px"
-      />&nbsp;
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg"
-        title="Rails"
-        alt="Rails"
-        width="40"
-        height="40"
-        font-size="10px"
-      />&nbsp;
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
-        title="PostgreSQL"
-        alt="PostgreSQL"
-        width="40"
-        height="40"
-        font-size="10px"
-        />&nbsp;
-    </div>
-    <div margin="0 50px">
-    <!-- </li>
-    <li font-size="20px"> -->
+      |
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
         title="HTML5"
@@ -157,10 +112,31 @@
         height="40"
         font-size="10px"
       />&nbsp;
-    </div>
-    <!-- </li>
-  </ul> -->
-  </container>
+      |
+        <img
+        src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+        title="HTML5"
+        alt="HTML"
+        width="40"
+        height="40"
+        font-size="10px"
+      />&nbsp;
+        <img
+        src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
+        title="CSS3"
+        alt="CSS"
+        width="40"
+        height="40"
+        font-size="10px"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
+        title="Git"
+        **alt="Git"
+        width="40"
+        height="40"
+        font-size="10px"
+      />&nbsp;
 </div>
 
 ---
