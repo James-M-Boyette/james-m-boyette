@@ -17,7 +17,7 @@
 			width="200"
 		/>
 		<img
-			src="https://myoctocat.dev/@sou7hernsaint/octocat"
+			src="https://raw.githubusercontent.com/sou7hernsaint/sou7hernsaint/main/octoJames.png"
 			width="200"
 		/>
 	</a>
@@ -47,7 +47,7 @@
       <li>🌱 drilling algorithm practice, because I need that muscle to be  <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
     width="30px"></img>,</li>
       <li>👨🏻‍🏫 teaching an entrepreneur to code while constructing their website, and</li>
-      <li>💬 interning at my bootcamp's career platform because I love their product.</li>
+      <li>💬 interning at my bootcamp's career platform because I LOVE their product.</li>
       <li>⚡ Fun Fact: I helped renovate Amy Tan's SoHo apartment</li>
     </ul>
   </div>
