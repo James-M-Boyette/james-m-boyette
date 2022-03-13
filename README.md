@@ -19,7 +19,7 @@
 			width="200"
 		/> -->
 		<img
-			src="![octoJames2](https://user-images.githubusercontent.com/79064297/158075717-c66bdd66-26f0-4f1f-9334-db38cb7af040.png)"
+			src="https://user-images.githubusercontent.com/79064297/158075717-c66bdd66-26f0-4f1f-9334-db38cb7af040.png"
 			width="200"
 		/>
 	</a>
