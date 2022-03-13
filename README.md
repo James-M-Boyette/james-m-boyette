@@ -1,7 +1,10 @@
 <!-- <div id="header"> -->
 
 <h3 align="center">
-  Hi ! <span style="opacity: 0">  </span>I'm James Boyette
+  Hi !
+</h3>
+<h3 align="center">
+  I'm James Boyette
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="30px"
@@ -12,10 +15,6 @@
 
 <div align="center">
 	<a href="https://myoctocat.dev/@sou7hernsaint/octocat">
-		<img
-			src="https://user-images.githubusercontent.com/22990146/155748276-bc6a3a99-b8e3-464e-adf5-ca88b5acd642.png"
-			width="200"
-		/>
 		<img
 			src="https://raw.githubusercontent.com/sou7hernsaint/sou7hernsaint/main/octoJames.png"
 			width="200"
