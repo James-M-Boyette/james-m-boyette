@@ -45,16 +45,17 @@
 <!-- <div align="center"></div> -->
 <h3 align="center">About Me</h3>
 <container align="left">
-  <div>I'm a Software Engineer, Teacher, and PC Enthusiast who is currently ...
+  <div>I'm a Software Engineer, former Teacher, and PC Enthusiast who is currently ...
     <ul>
-      <li>🌱 drilling algorithm practice, because I need that muscle to be  <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
+      <li>🌱 drilling algorithm practice, because I need that muscle to be über <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
     width="30px"></img>,</li>
       <li>👨🏻‍🏫 teaching an entrepreneur to code while developing their website, and</li>
-      <li>💬 doing an internship with my bootcamp's career platform partner because I LOVE their product!</li>
-      <li>⚡ Fun Fact : 7 years ago, I taught myself 3D art and video game design</li>
+      <li>💼 doing an internship with my bootcamp's career platform partner because I LOVE their product.</li>
+      <li>⚡ Fun Fact : 7 years ago, I taught myself 3D art and video game design (which was *totally* not a gateway drug to software development 😇)</li>
     </ul>
   </div>
 </container>
+<!-- 💬 -->
 
 ---
 
