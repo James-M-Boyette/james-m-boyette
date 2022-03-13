@@ -50,7 +50,7 @@
       <li>🌱 drilling algorithm practice, because I need that muscle to be  <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
     width="30px"></img>,</li>
       <li>👨🏻‍🏫 teaching an entrepreneur to code while constructing their website, and</li>
-      <li>💬 interning at my bootcamp's career platform because I LOVE their product!</li>
+      <li>💬 interning at my bootcamp's career platform partner because I LOVE their product!</li>
       <li>⚡ Fun Fact: 7 years ago, I taught myself 3D art and video game design</li>
     </ul>
   </div>
