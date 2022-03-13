@@ -44,10 +44,11 @@
 <container align="left">
   <div>I am a Software Engineer, Teacher, and PC Enthusiast.
     <ul>
-      <li>🌱 I'm currently drilling algorithm practice, because I need that muscle to be <span>
-        <div class="tenor-gif-embed" data-postid="19373906" data-share-method="host" data-aspect-ratio="1.28514" data-width="100%"><a href="https://tenor.com/view/workout-strong-flex-muscle-biceps-gif-19373906">Workout Strong Sticker</a></span> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-        </li>
-      <li>👨🏻‍🏫 Making complicated things intuitive while creating a <span font-style="bold">very</span>fun and open atmosphere gives me <span font-style="italic">so much</span>joy !</li>
+      <li>🌱 I'm currently drilling algorithm practice, because I need that muscle to be <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
+    width="30px"></img></li>
+      <li>👨🏻‍🏫 Making complicated things intuitive while creating a <span font-style="bold">very</span> fun and open atmosphere gives me <span font-style="italic">so much</span>joy !</li>
+      <li>💬 Ask me about</li>
+      <li>⚡ Fun Fact: </li>
     </ul>
   </div>
 </container>
@@ -60,8 +61,8 @@
     contributor (and eventually a maintainer)!
 -   💬 Ask me about GitHub, open
     source, community building, React.js, and AWS.
--   😄 Pronouns: she/her/hers - ⚡
-    Fun fact: I've been in the same room as Michelle Obama!
+-   😄 Pronouns: she/her/hers
+-   ⚡ Fun fact: I've been in the same room as Michelle Obama!
 
 ---
 
