@@ -60,8 +60,9 @@
 <div>
   <!-- <ul>
   <li font-size="20px"> -->
-  <container display="flex" flex-direction="row" justify-content="space-around">
-    <div margin="0 10px">
+  <!-- <container display="flex" flex-direction="row" justify-content="space-around"> -->
+  <container>
+    <div margin="0 10px" float="left">
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
         title="JavaScript"
@@ -115,7 +116,7 @@
         font-size="10px"
         />&nbsp;
     </div>
-    <div margin="0 50px">
+    <div margin="0 50px" float="right">
     <!-- </li>
     <li font-size="20px"> -->
       <img
@@ -159,7 +160,7 @@
 </div>
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div>
