@@ -57,11 +57,13 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+|  Syntax   | Description |
+| :-------: | :---------: |
+|  Header   |    Title    |
+| Paragraph |    Text     |
+
 <div>
-| Syntax      | Description |
-| :----:      | :----:      |
-| Header      | Title       |
-| Paragraph   | Text        |
+
   <!-- <ul>
   <li font-size="20px"> -->
   <!-- <container display="flex" flex-direction="row" justify-content="space-around"> -->
