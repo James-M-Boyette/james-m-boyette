@@ -42,27 +42,16 @@
 <!-- <div align="center"></div> -->
 <h3 align="center">About Me</h3>
 <container align="left">
-  <div>I am a Software Engineer, Teacher, and PC Enthusiast.
+  <div>I am a Software Engineer, Teacher, and PC Enthusiast who is currently ...
     <ul>
-      <li>🌱 I'm currently drilling algorithm practice, because I need that muscle to be <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
-    width="30px"></img></li>
-      <li>👨🏻‍🏫 Making complicated things intuitive while creating a <span font-style="bold">very</span> fun and open atmosphere gives me <span font-style="italic">so much</span>joy !</li>
-      <li>💬 Ask me about</li>
-      <li>⚡ Fun Fact: </li>
+      <li>🌱 drilling algorithm practice, because I need that muscle to be  <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
+    width="30px"></img>,</li>
+      <li>👨🏻‍🏫 teaching an entrepreneur to code while constructing their website, and</li>
+      <li>💬 interning at my bootcamp's career platform because I love their product.</li>
+      <li>⚡ Fun Fact: I helped renovate Amy Tan's SoHo apartment</li>
     </ul>
   </div>
 </container>
-
----
-
-### 👋🏾 👩🏾‍💻 About Me : I am a Developer Advocate, Software Engineer, and Community Builder.
-
--   🌱 I’m currently working on becoming an active open source
-    contributor (and eventually a maintainer)!
--   💬 Ask me about GitHub, open
-    source, community building, React.js, and AWS.
--   😄 Pronouns: she/her/hers
--   ⚡ Fun fact: I've been in the same room as Michelle Obama!
 
 ---
 
@@ -164,7 +153,7 @@
 ### :fire: My Stats :
 
 &text_color=fff&icon_color=faee0c&title_color=FFC302
-[![GitHubStreak](http://github-readme-streak-stats.herokuapp.com?user=sou7hernsaint&theme=gruvbox&background=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sou7hernsaint&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&background=031321&ring=C1C381&sideNums=FEFFEE&fire=FFC01D&currStreakLabel=FFC01D&dates=D3D58D&border=072846&currStreakNum=FEFFEE&sideLabels=FFD146&stroke=0B466A)](https://git.io/streak-stats)
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c)](https://github.com/anuraghazra/github-readme-stats)
 [![James's GitHubstats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=30,FEFFEE,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c)](https://github.com/anuraghazra/github-readme-stats)
 
