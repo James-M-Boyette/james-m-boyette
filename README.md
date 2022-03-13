@@ -15,7 +15,7 @@
 <div align="center">
 	<a href="https://myoctocat.dev/@sou7hernsaint/octocat">
 		<img
-			src="https://raw.githubusercontent.com/sou7hernsaint/sou7hernsaint/main/octoJames.png"
+			src="https://raw.githubusercontent.com/sou7hernsaint/sou7hernsaint/main/octoJames2.png"
 			width="200"
 		/>
 	</a>
