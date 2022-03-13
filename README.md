@@ -1,14 +1,17 @@
 <!-- <div id="header"> -->
 
 <h3 align="center">
-  Hi !
-</h3>
-<h3 align="center">
-  I'm James Boyette
+  <div>Hi !
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="30px"
   />
+  </div>
+  <div>I'm James Boyette</div>
+</h3>
+<h3 align="center">
+  I'm James Boyette
+  
 </h3>
 
 <!-- </div> -->
