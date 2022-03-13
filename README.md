@@ -61,8 +61,8 @@
   <!-- <ul>
   <li font-size="20px"> -->
   <!-- <container display="flex" flex-direction="row" justify-content="space-around"> -->
-  <container>
-    <div margin="0 10px" float="left">
+  <container style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div margin="0 10px">
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
         title="JavaScript"
@@ -116,7 +116,7 @@
         font-size="10px"
         />&nbsp;
     </div>
-    <div margin="0 50px" float="right">
+    <div margin="0 50px">
     <!-- </li>
     <li font-size="20px"> -->
       <img
