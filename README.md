@@ -51,7 +51,7 @@
     width="30px"></img>,</li>
       <li>👨🏻‍🏫 teaching an entrepreneur to code while constructing their website, and</li>
       <li>💬 doing an internship with my bootcamp's career platform partner because I LOVE their product!</li>
-      <li>⚡ Fun Fact: 7 years ago, I taught myself 3D art and video game design</li>
+      <li>⚡ Fun Fact : 7 years ago, I taught myself 3D art and video game design</li>
     </ul>
   </div>
 </container>
