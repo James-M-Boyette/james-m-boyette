@@ -52,7 +52,7 @@
   <div>I'm a Software Engineer, former Teacher, and PC Enthusiast who is currently ...
     <ul>
       <li>🏫 doing software development as a Subject Matter Expert for BitDegree (an Ed-Tech start-up)</li>
-      <li>🌱 drilling algorithm practice, because that muscle to be über <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
+      <li>🌱 drilling algorithm practice, because that muscle needs to be über <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
     width="30px"></img>,</li>
       <li>👨🏻‍🏫 teaching an entrepreneur to code while developing their website, and</li>
       <li>💼 doing an internship with my bootcamp's career platform partner because I LOVE their product.</li>
