@@ -51,11 +51,11 @@
 <container align="left">
   <div>I'm a Software Engineer, former Teacher, and PC Enthusiast who is currently ...
     <ul>
-      <li>🏫 back end developer for Agrograph (an agriculture tech start-up)</li>
+      <li>💼 back end developer for Agrograph (an agriculture tech start-up)</li>
       <li>🌱 drilling algorithm practice, because that muscle needs to be über <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
     width="30px"></img>,</li>
       <li>👨🏻‍🏫 teaching an entrepreneur to code while developing their website, and</li>
-      <li>💼 working on a couple of apps to solve my own problems (a 'trello'-styled productivity tracker, and a fitness tracker)</li>
+      <li>🏫 devleoping a few apps to hone skills + solve problems (a 'trello'-styled productivity tracker, a fitness tracker, and a web scraper)</li>
       <li>⚡ Fun Fact : 7 years ago, I taught myself 3D art and video game design (which was *totally* not a gateway drug to software development 😇)</li>
     </ul>
   </div>
