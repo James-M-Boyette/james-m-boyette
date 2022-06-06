@@ -53,7 +53,7 @@
     <ul>
       <li>🏫 devleoping a few apps to hone skills + solve problems (a 'trello'-styled productivity tracker, a fitness tracker, and a web scraper)</li>
       <li>🌱 drilling algorithm practice, because that muscle needs to be über <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
-    width="30px"></img>,</li>
+    width="30"></img>,</li>
       <li>👨🏻‍🏫 teaching an entrepreneur to code while developing their website, and</li>
       <li>⚡ Fun Fact : 7 years ago, I taught myself 3D art and video game design (which was *totally* not a gateway drug to software development 😇)</li>
     </ul>
