@@ -5,7 +5,7 @@
   </div>
   <div>I'm James Boyette <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="30px"
+    width="30"
   /></div>
 
 </h3>
