@@ -51,10 +51,10 @@
 <container align="left">
   <div>I'm a Software Engineer, former Teacher, and PC Enthusiast who is currently ...
     <ul>
-      <li>🏫 developing a few apps to hone skills + solve problems (a 'trello'-styled productivity tracker, a fitness tracker, and a web scraper)</li>
-      <li>🌱 drilling algorithm practice, because that muscle needs to be über <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
-    width="30"></img>,</li>
-      <li>⚡ Fun Fact : 7 years ago, I taught myself 3D art and video game design (which was *totally* not a gateway drug to software development 😇)</li>
+      <li>🏫🧑‍🤝‍🧑 continuing to work on a productivity tracker - one that includes data analytics and visualizations, calendar and clock integrations, and a bunch of automation </li>
+      <li>🌱 drilling ze algorithm practice  <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
+    width="30"></img></li>
+      <li>⚡ Fun Fact : 7 years ago, I taught myself 3D art and video game design (which, btw, was *totally* not a gateway drug to software development 😇)</li>
     </ul>
   </div>
 </container>
