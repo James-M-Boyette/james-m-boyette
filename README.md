@@ -51,7 +51,8 @@
 <container align="left">
   <div>I'm a Software Engineer, former Teacher, and PC Enthusiast who is currently ...
     <ul>
-      <li>🏫🧑‍🤝‍🧑 continuing to work on a productivity tracker - one that includes data analytics and visualizations, calendar and clock integrations, and a bunch of automation </li>
+      <li>🏫 continuing to work on a productivity tracker - one that includes data analytics and visualizations, calendar and clock integrations, and a bunch of automation </li>
+      <li>🧑‍🤝‍🧑 collaborating on an alumni project for my bootcamp </li>
       <li>🌱 drilling ze algorithm practice  <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
     width="30"></img></li>
       <li>⚡ Fun Fact : 7 years ago, I taught myself 3D art and video game design (which, btw, was *totally* not a gateway drug to software development 😇)</li>
