@@ -55,7 +55,7 @@
       <li>🧑‍🤝‍🧑 collaborating on an alumni project for my bootcamp </li>
       <li>🌱 drilling ze algorithm practice  <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
     width="30"></img></li>
-      <li>⚡ Fun Fact : 7 years ago, I taught myself 3D art and video game design (which, btw, was *totally* not a gateway drug to software development 😇)</li>
+      <li>⚡ Fun Fact : 7 years ago, I taught myself 3D art and video game design, which eventually lead me to switching my career to software development!</li>
     </ul>
   </div>
 </container>
