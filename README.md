@@ -32,7 +32,7 @@
 		</a>
 		<a href="https://www.james-boyette.com">
 			<img
-				src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logoColor=white&logo=corsair"
+				src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=corsair&logoColor=white"
 			/>
 		</a>
 		<a href="https://www.twitter.com/sou7hernsaint">
