@@ -154,19 +154,22 @@
 
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=55,FEFFEE,9C9E6D,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=031321&title_color=FFC01D&text_color=fff&icon_color=faee0c&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou7hernsaint&theme=gruvbox&bg_color=031321&title_color=FFC01D&text_color=fff&icon_color=faee0c&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-m-boyette&theme=gruvbox&bg_color=031321&title_color=FFC01D&text_color=fff&icon_color=faee0c&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
   <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sou7hernsaint&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&background=031321&ring=C1C381&sideNums=FEFFEE&fire=FFC01D&currStreakLabel=FFC01D&dates=D3D58D&border=072846&currStreakNum=FEFFEE&sideLabels=FFD146&stroke=0B466A)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sou7hernsaint&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&background=031321&ring=C1C381&sideNums=FEFFEE&fire=FFC01D&currStreakLabel=FFC01D&dates=D3D58D&border=072846&currStreakNum=FEFFEE&sideLabels=FFD146&stroke=0B466A)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=james-m-boyette&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&background=031321&ring=C1C381&sideNums=FEFFEE&fire=FFC01D&currStreakLabel=FFC01D&dates=D3D58D&border=072846&currStreakNum=FEFFEE&sideLabels=FFD146&stroke=0B466A)](https://git.io/streak-stats)
 
   </div>
   <div align="center">
 
   <!-- [![James's GitHubstats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=30,FEFFEE,9C9E6D,9C9E6D,C1C381,072846,031321&title_color=FFC302&text_color=fff&icon_color=faee0c)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![James's GitHubstats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=031321&title_color=FFC01D&text_color=fff&icon_color=D3D58D)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![James's GitHubstats](https://github-readme-stats.vercel.app/api?username=sou7hernsaint&theme=gruvbox&show_icons=true&bg_color=031321&title_color=FFC01D&text_color=fff&icon_color=D3D58D)](https://github.com/anuraghazra/github-readme-stats) -->
+[![James's GitHubstats](https://github-readme-stats.vercel.app/api?username=james-m-boyette&theme=gruvbox&show_icons=true&bg_color=031321&title_color=FFC01D&text_color=fff&icon_color=D3D58D)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
 </container>
