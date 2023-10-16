@@ -49,13 +49,24 @@
 <!-- <div align="center"></div> -->
 <h3 align="center">About Me</h3>
 <container align="left">
-  <div>I'm a Software Engineer, former Teacher, and PC Enthusiast who is currently ...
+  <div>I'm the UI-UX Front End dev for UC Davis Health. 
+	<br> I develop interactive 'Live Mock' web apps that serve two purposes:  
+	 securing client approvals and providing our development team with a blueprint for new products.
+  </div>
+<br>
+  <div> Some fun facts about me:
     <ul>
-      <li>🤖 upgrading my web scraper + downloader app to v2.0 </li>
-      <li>🏫 continuing to work on a productivity tracker - one that includes data analytics and visualizations, calendar and clock integrations, and a bunch of automation </li>
-      <li>🌱 drilling ze algorithm practice  <img src="https://media.giphy.com/media/ZeMfdHufqiKGoBKuz0/giphy.gif"
-    width="30"></img></li>
-      <li>⚡ Fun Fact : 7 years ago, I taught myself 3D art and video game design, which eventually lead me to switching my career to software development!</li>
+	<li>💼 I was a teacher for 15 years</li>
+      	<li>💾 I really enjoy writing personal projects and apps in my free time </li>
+      	<li>📷 For anyone who wants to know what it was like to grow up in NYC in the '80s, I tell them to watch 
+		<ul>
+			<ol>⚔️ The first Ninja Turtles movie,</ol>
+			<ol>🦇 The Tim Burton Batman Movies, and</ol>
+			<ol>👻 Beatlejuice</ol>
+		</ul>
+		... pretty much sums it up!
+	</li>
+      	<li>🎨 My artistic outlets are 3D modeling & Video game design</li>
     </ul>
   </div>
 </container>
@@ -146,6 +157,8 @@
 </div>
 
 ---
+<h3>Note:</h3>
+<div>We use gitlab at work, so my commit history is anemic right now ...</div>
 
 <h3 align="center"> 🔥 My Stats :</h3>
 
